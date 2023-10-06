@@ -1,4 +1,9 @@
 # thmproj_mfu_datascitcas https://thmprojdatascitcas.herokuapp.com/
+-----------------------------
+6/10/2023: I notice that heroku's free policies has been change
+Therefore the site is down. I will try to fix it as soon as I feel convinence
+Maybe hosting on another free platform any suggestion?
+-----------------------------
 ### A first step for a man, a group of people learning about Data Science field.
 #### This project is a part of 1501410 Data Science and Artificial Intelligence (MFU)
 #### We receive a dataset of MFU TCAS, implement the way of data science to make a use of it
